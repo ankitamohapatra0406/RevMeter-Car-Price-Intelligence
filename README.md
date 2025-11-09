@@ -4,13 +4,13 @@ RevMeter uses machine learning to predict fair prices for used cars based on 15,
 
 This project analyzes 15,411 listings from Cardekho.com using 13 key features to build a predictive model that estimates the true market price of a used car. Whether you're hunting for a deal or listing your vehicle, RevMeter helps you spot overpriced or undervalued cars instantly.
 
-🔍 Why RevMeter?
+🔍Why RevMeter?
 - ✅ Data-driven insights for smarter buying decisions
 - ✅ Machine learning model trained on real-world listings
 - ✅ Feature-rich analysis including mileage, fuel type, brand, and more
 - ✅ Empowers users with pricing transparency and confidence
 
-📊 Tech Stack
+📊Tech Stack 
 - Python (Pandas, NumPy, Scikit-learn)
 - Jupyter Notebook
 - Matplotlib & Seaborn for visualization
