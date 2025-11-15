@@ -1,4 +1,4 @@
-# 🚗 RevMeter: Car Price Intelligence
+# 🚗 RevMeter: Car Price Intelligence 
 Smart Pricing for Used Cars in India
 RevMeter uses machine learning to predict fair prices for used cars based on 15,411 listings from Cardekho.com. By analyzing 13 key features—like brand, mileage, fuel type, and regional trends—it helps buyers and sellers spot overpriced or undervalued vehicles with confidence. 
 
