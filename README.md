@@ -8,7 +8,7 @@ This project analyzes 15,411 listings from Cardekho.com using 13 key features to
 - ✅ Data-driven insights for smarter buying decisions
 - ✅ Machine learning model trained on real-world listings
 - ✅ Feature-rich analysis including mileage, fuel type, brand, and more
-- ✅ Empowers users with pricing transparency and confidence
+- ✅ Empowers users with pricing transparency and confidence 
 
 📊 Tech Stack 
 - Python (Pandas, NumPy, Scikit-learn)
